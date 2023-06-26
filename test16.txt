@@ -1,1 +1,2 @@
 print("Both Games have Very High Graphics and Gameplay is very Smooth")
+print("But the features they require to play are very high")
