@@ -1,0 +1,1 @@
+print("Gamers are very Short Tempered")
